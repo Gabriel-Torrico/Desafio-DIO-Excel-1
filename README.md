@@ -9,7 +9,7 @@ O objetivo dessa ferramenta é focada em auxiliar investidores iniciantes na tom
 Este projeto foi desenvolvido com o intuito de aplicar conceitos de Excel em um simulador de **Fundos Investimentos Imobiliários** (FII's), trabalhando vários tipos de Formulas e Formatação Condicional. 
 
 Nesta planilha também tem dois gráficos e um painel com duas formas de visualizar a ferramenta, que pode ser alterada a qualquer momento. 
-Este modelo pode ser usado como base para futuras expansões e personalizações. 
+Este [modelo](#-planilha) pode ser usado como base para futuras expansões e personalizações. 
 
 
 ## ⚙ Estrutura
@@ -17,10 +17,10 @@ Este modelo pode ser usado como base para futuras expansões e personalizações
 
 Essa ferramenta contém os seguintes painéis:
 - [INICIALIZAÇÃO](#etapa-1-inicialização-e-visualização)
-- VISUALIZAÇÃO DA FERRAMENTA
-- INVESTIMENTO MENSAL
-- CENARIOS
-- PERFIL DE INVESTIMENTO
+- [VISUALIZAÇÃO DA FERRAMENTA](#etapa-1-inicialização-e-visualização)
+- [INVESTIMENTO MENSAL](#etapa-2-investimento-mensal)
+- [CENARIOS](#etapa-3-entender-outros-cenários)
+- [PERFIL DE INVESTIMENTO](#etapa-4-identificando-seu-perfíl-de-investidor)
 
 Nestes painéis, os campos que estão com **FUNDO BRANCO** são os que o usuário pode editar para colocar sua entrada. Assim que os campos estiverem preenchidas corretamentes, será gerado cálculos que serão apresentados em outras células, especificamente nas que estão bloqueadas de edição e/ou com **FUNDO CINZA**.
 
