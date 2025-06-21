@@ -10,6 +10,7 @@ Este projeto foi desenvolvido com o intuito de aplicar conceitos de Excel em um 
 Nesta planilha também tem dois gráficos e um painél com duas formas de visualizar a ferramenta, que pode ser alterada a qualquer momento. 
 Este modelo pode ser usado como base para futuras expansões e personalizações. 
 
+
 ## ⚙ Estrutura
 
 
@@ -96,8 +97,9 @@ Futuramente posso fazer um ajuste ou outro no arquivo e em suas funcionalidades,
 
 ## 📁 Planilha
 
-<img src="Imagens/TORRICO'S INVEST - Macroview-SIMULADOR_INVESTIMENTO.png" alt = "Imagem 6" width="500"/>    
-<img src="Imagens/TORRICO'S INVEST - Macroview-CHAVE_CONFIG.png" alt = "Imagem 6" width="500"/> 
+<img src="Imagens/TORRICO'S INVEST - Macroview-SIMULADOR_INVESTIMENTO.png" alt = "Imagem 6" width="300"/>  <img src="Imagens/TORRICO'S INVEST - Macroview-CHAVE_CONFIG.png" alt = "Imagem 6" width="300"/> 
 
 
-Deixo em anexo a pasta com a Planilha desse projeto, protegida.
+## 📥 Download da Planilha do Projeto
+
+[📊 Baixar planilha Excel](ProjetoEXCEL/Desafio_Excel_DIO-Ferramenta_de_investimentos.xlsx)
