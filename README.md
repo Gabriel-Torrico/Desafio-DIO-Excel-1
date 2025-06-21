@@ -102,4 +102,4 @@ Futuramente posso fazer um ajuste ou outro no arquivo e em suas funcionalidades,
 
 ## 📥 Download da Planilha do Projeto
 
-[📊 Baixar planilha Excel](ProjetoEXCEL/Desafio_Excel_DIO-Ferramenta_de_investimentos.xlsx)
+[📊 Baixar planilha Excel](ProjetoEXCEL/Desafio_Excel_DIO-Ferramenta_de_investimentos_(1.0).xlsx)
