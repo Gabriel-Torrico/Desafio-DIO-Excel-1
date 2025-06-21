@@ -81,7 +81,7 @@ Por exemplo: Para um investidor Conservador, será priorizado investir o dinheir
 Temos dois gráficos nesta planilha:
 1. Gráfico de Colunas - Linha do Tempo do Investimento - Vinculada diretamente no painél **CENÁRIOS**, representa os dados de *Retorno em Anos* e o *Patrimônio Acumulado*. 
 2. Gráfico de Pizza   - Sugestão de investimento por Tipos de FII's - Vinculada diretamente a tabela de Tipos de FII, contendo o resultado do percentual de cada categoria.
-<img src="Imagens/Imagem 6 - Perfil.png" alt = "Imagem 6" width="700"/>   
+<img src="Imagens/TORRICO'S INVEST - Gráficos.png" alt = "Imagem 6" width="500"/>   
 
 ## 🛠 Considerações Finais
 
@@ -93,5 +93,11 @@ Futuramente posso fazer um ajuste ou outro no arquivo e em suas funcionalidades,
   Microsoft Excel.
   Fórmulas usadas: SE, E, VF, PROCV.
   Formatação Condicional e Gráfico de Pizza e Colunas.
-  
+
+## 📁 Planilha
+
+<img src="Imagens/TORRICO'S INVEST - Macroview-SIMULADOR_INVESTIMENTO.png" alt = "Imagem 6" width="500"/>    
+<img src="Imagens/TORRICO'S INVEST - Macroview-CHAVE_CONFIG.png" alt = "Imagem 6" width="500"/> 
+
+
 Deixo em anexo a pasta com a Planilha desse projeto, protegida.
