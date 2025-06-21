@@ -7,7 +7,7 @@ O objetivo dessa ferramenta é focada em auxiliar investidores iniciantes na tom
 
 Este projeto foi desenvolvido com o intuito de aplicar conceitos de Excel em um simulador de **Fundos Investimentos Imobiliários** (FII's), trabalhando vários tipos de Formulas e Formatação Condicional. 
 
-Nesta planilha também tem dois gráficos e um painél com duas formas de visualizar a ferramenta, que pode ser alterada a qualquer momento. 
+Nesta planilha também tem dois gráficos e um painel com duas formas de visualizar a ferramenta, que pode ser alterada a qualquer momento. 
 Este modelo pode ser usado como base para futuras expansões e personalizações. 
 
 
@@ -62,12 +62,12 @@ Nesta etapa, o usuário pode fazer as confirmações do seu investimento no pain
 
 Nesta etapa, temos a tabela não-editável **CENÁRIOS**:
 - Ela serve para o usuário visualizar diferentes retornos de investimentos em diferentes anos; 
-- Esses cálculos são parecidos com o painél de **INVESTIMENTO MENSAL** e depende dos dados inseridos. 
+- Esses cálculos são parecidos com o painel de **INVESTIMENTO MENSAL** e depende dos dados inseridos. 
 <img src="Imagens/Imagem 5 - Cenários.png" alt = "Imagem 5" width="700"/>
 
 
 ### Etapa 4: Identificando seu Perfíl de Investidor
-Nesta etapa, o usuário pode inserir no painél **PERFIL DE INVESTIMENTO** o seu estilo de investimento em uma lista com três opções: 
+Nesta etapa, o usuário pode inserir no painel **PERFIL DE INVESTIMENTO** o seu estilo de investimento em uma lista com três opções: 
 
 1. Conservador: Investidor(a) que prioriza segurança e estabilidade. Estes tem baixa tolerância à oscilações ou que estão começando a investir.
 2. Moderado: Investidor(a) que prioriza opções equilibradas e diversificadas. Estes tem tolerância moderada à oscilações e que tem mais experiência no mercado.
@@ -80,13 +80,13 @@ Por exemplo: Para um investidor Conservador, será priorizado investir o dinheir
 ## 📈 Gráficos
 
 Temos dois gráficos nesta planilha:
-1. Gráfico de Colunas - Linha do Tempo do Investimento - Vinculada diretamente no painél **CENÁRIOS**, representa os dados de *Retorno em Anos* e o *Patrimônio Acumulado*. 
+1. Gráfico de Colunas - Linha do Tempo do Investimento - Vinculada diretamente no painel **CENÁRIOS**, representa os dados de *Retorno em Anos* e o *Patrimônio Acumulado*. 
 2. Gráfico de Pizza   - Sugestão de investimento por Tipos de FII's - Vinculada diretamente a tabela de Tipos de FII, contendo o resultado do percentual de cada categoria.
 <img src="Imagens/TORRICO'S INVEST - Gráficos.png" alt = "Imagem 6" width="500"/>   
 
 ## 🛠 Considerações Finais
 
-Também tem uma planilha ****"CHAVE CONFIG"**** que são dados para alimentar o painél **PERFIL DE INVESTIMENTO**
+Também tem uma planilha ****"CHAVE CONFIG"**** que são dados para alimentar o painel **PERFIL DE INVESTIMENTO**
 
 Gostaria de agradecer ao professor da DIO, Felipe Aguiar, pelas aulas e explicações sobre o tema.
 Futuramente posso fazer um ajuste ou outro no arquivo e em suas funcionalidades, caso necessário.
