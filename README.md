@@ -16,7 +16,7 @@ Este modelo pode ser usado como base para futuras expansões e personalizações
 
 
 Essa ferramenta contém os seguintes painéis:
-- INICIALIZAÇÃO
+- INICIALIZAÇÃO [Etapa 1: Inicialização e Visualização](#etapa-1-inicializacao-e-visualizacao)
 - VISUALIZAÇÃO DA FERRAMENTA
 - INVESTIMENTO MENSAL
 - CENARIOS
