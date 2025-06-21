@@ -23,7 +23,8 @@ Essa ferramenta contém os seguintes painéis:
 Nestes painéis, os campos que estão com **FUNDO BRANCO** são os que o usuário pode editar para colocar sua entrada. Assim que os campos estiverem preenchidas corretamentes, será gerado cálculos que serão apresentados em outras células, especificamente nas que estão bloqueadas de edição e/ou com **FUNDO CINZA**.
 
 <sub>*OBS: Na imagem em questão, todos os campos com uma **descrição em vermelho** são os que podem ser editáveis. O único campo que estará preenchido é a **Taxa de rendimento mensal em %** que por padrão é 1,079%.*</sub>
-(IMAGEM 1)
+
+<img src="Imagens/Imagem 1 - Ferramenta Investimento.png" alt="Imagem 1" width="500"/>
 
 
 ## 🧱 Passo a Passo
@@ -35,15 +36,15 @@ Nesta primeira etapa é onde pode ser inserido os primeiros dados para calcular 
 No painel **INICIALIZAÇÃO** o usuário pode inserir um *Salário Mensal* em Reais(R$) e o *Rendimento Carteira* em %. 
 Após isso, será mostrado abaixo uma sugestão de investimento, sepadando 30% do salário para investimento. 
 
+<img src="Imagens/Imagem 2 - Inicializacao.png" alt="Imagem 2" width="700"/>
+
 > OBS: Não é um valor que precisa seguir a risca. 
-Se sentir que precisa economizar mais ou investir mais do que a sugestão, na **Etapa 2** você pode inserir um novo valor que irá confirmar o quanto em R$ será separado mensalmente e investido.
-(IMAGEM 2)
+Se sentir que precisa economizar mais ou investir mais do que a sugestão, na **Etapa 2** você pode inserir um novo valor que irá confirmar o quanto em R$ será separado mensalmente e investido.   
 
-
-Você também pode alterar o tipo de **VISUALIZAÇÃO** no painel ao lado. Ao clicar na célula, irá aparecer duas opções. 
+É também possível alterar o tipo de **VISUALIZAÇÃO** no painel ao lado. Ao clicar na célula, irá aparecer duas opções.   
 1. "Informar avisos" adiciona textos que pode ajudar o usuário a entender os campos editáveis, útil para pessoas que não estão familiarizados e/ou esclarescer o que precisa inserir. 
 2. "Simples" é a visualização limpa e padrão, útil para quem está mais familiarizado no uso de simuladores.
-(IMAGEM 3)
+<img src="Imagens/Imagem 3 - Visualizacao.png" alt="Imagem 3" width="700"/>
 
 
 ### Etapa 2: Investimento mensal
@@ -53,7 +54,7 @@ Nesta etapa, o usuário pode fazer as confirmações do seu investimento no pain
 2. *Investimento Anual* é por quantos anos o usuário irá investir;
 3. *Taxa de rendimento mensal em %*, normalmente é ≈ 1,08%.
   Após inserir esses dados, e também o *Rendimento Carteira* em **INICIALIZAÇÃO**, será gerado o Patrimonio Acumulado e os Dividendos Mensais. Você pode alterar os dados acima para ver novos resultados. 
-(IMAGEM 4)
+<img src="Imagens/Imagem 4 - Investimento Mensal.png" alt="Imagem 4" width="700"/>
 
 
 ### Etapa 3: Entender outros Cenários
@@ -61,7 +62,7 @@ Nesta etapa, o usuário pode fazer as confirmações do seu investimento no pain
 Nesta etapa, temos a tabela não-editável **CENÁRIOS**:
 - Ela serve para o usuário visualizar diferentes retornos de investimentos em diferentes anos; 
 - Esses cálculos são parecidos com o painél de **INVESTIMENTO MENSAL** e depende dos dados inseridos. 
-(IMAGEM 5)
+<img src="Imagens/Imagem 5 - Cenários.png" alt = "Imagem 5" width="700"/>
 
 
 ### Etapa 4: Identificando seu Perfíl de Investidor
@@ -72,7 +73,7 @@ Nesta etapa, o usuário pode inserir no painél **PERFIL DE INVESTIMENTO** o seu
 3. Agressivo: Investidor(a) que prioriza oportunidades de alto riscos. Estes tem alta tolerância à oscilações e que se preparam para enfretar perdas temporárias.
 Depois de escolher uma das opções, será gerado cálculos na tabela abaixo. Essa tabela divide o *Aporte Mensal* em 6 categorias, cada uma com uma sugestão de investimendo ideal a depender de cada tipo de Perfil.
 Por exemplo: Para um investidor Conservador, será priorizado investir o dinheiro do *Aporte Mensal* em Fundos Imobiliários (FIIs) de "Tijolo", enquanto para um investidor Agressivo terá mais prioridade para os de Papel.
-(IMAGEM 6)
+<img src="Imagens/Imagem 6 - Perfil.png" alt = "Imagem 6" width="700"/>
 
 
 ## 📈 Gráficos
@@ -80,7 +81,7 @@ Por exemplo: Para um investidor Conservador, será priorizado investir o dinheir
 Temos dois gráficos nesta planilha:
 1. Gráfico de Colunas - Linha do Tempo do Investimento - Vinculada diretamente no painél **CENÁRIOS**, representa os dados de *Retorno em Anos* e o *Patrimônio Acumulado*. 
 2. Gráfico de Pizza   - Sugestão de investimento por Tipos de FII's - Vinculada diretamente a tabela de Tipos de FII, contendo o resultado do percentual de cada categoria.
-(IMAGEM GRAFICO)
+<img src="Imagens/Imagem 6 - Perfil.png" alt = "Imagem 6" width="700"/>   
 
 ## 🛠 Considerações Finais
 
