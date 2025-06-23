@@ -25,7 +25,7 @@ Essa ferramenta contém os seguintes painéis:
 Nestes painéis, os campos que estão com **FUNDO BRANCO** são os que o usuário pode editar para colocar sua entrada. Assim que os campos estiverem preenchidas corretamentes, será gerado cálculos que serão apresentados em outras células, especificamente nas que estão bloqueadas de edição e/ou com **FUNDO CINZA**.
 
 <sub>*OBS: Na imagem em questão, todos os campos com uma **descrição em vermelho** são os que podem ser editáveis. O único campo que estará preenchido é a **Taxa de rendimento mensal em %** que por padrão é 1,079%.*</sub>
-
+   
 <img src="Imagens/Imagem 1 - Ferramenta Investimento.png" alt="Imagem 1" width="500"/>
 
 
@@ -89,7 +89,7 @@ Temos dois gráficos nesta planilha:
 
 Também tem uma planilha ****"CHAVE CONFIG"**** que são dados para alimentar o painel **PERFIL DE INVESTIMENTO**
 
-Gostaria de agradecer ao professor da DIO, Felipe Aguiar, pelas aulas e explicações sobre o tema.
+Gostaria de agradecer ao professor da DIO, Felipe Aguiar, pelas aulas fantásticas e explicações sobre o tema.
 Futuramente posso fazer um ajuste ou outro no arquivo e em suas funcionalidades, caso necessário.
 
   Microsoft Excel.
